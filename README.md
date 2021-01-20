@@ -2,6 +2,10 @@
 Created to protect your python script (:
 
 # How To Run
+```bash
+python3 beta.pyc
+```
+
 python3 beta.pyc
 
 # Donate
