@@ -1,5 +1,5 @@
 # Armor
-Created to protect your python script (:
+Created to protect your python script.
 
 # How To Run
 ```bash
